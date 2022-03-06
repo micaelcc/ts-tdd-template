@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "target": "es2019",
+      "module": "commonjs",
+      "lib": ["es6"],
+      "allowJs": true,
+      "rootDirs": [],
+      "removeComments": true,
+      "strict": false,
+      "esModuleInterop": true,
+      "resolveJsonModule": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "skipLibCheck": true,
+      "rootDir": "./",
+      "baseUrl": "./src",
+      "outDir": "./build"
+    }
+  }
